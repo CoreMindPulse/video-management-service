@@ -1,0 +1,7 @@
+-r requirements.txt
+
+# ---- test ----
+pytest~=8.4.1
+
+# ---- code quality ----
+# ---- local cloud ----
